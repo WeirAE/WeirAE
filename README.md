@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=WeirAE&style=flat-square&color=blue" alt=""/>
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=WeirAE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WeirAE&theme=tokyonight&hide_border=true)<br/>
-
-![](https://github-contributor-stats.vercel.app/api?username=WeirAE&theme=tokyonight&hide_border=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 # Languages and Tools
 <div>
